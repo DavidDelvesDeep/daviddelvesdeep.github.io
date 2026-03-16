@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "DavidDelvesDeep",
+    "description": "",
+    "home_page_url": "https://daviddelvesdeep.github.io",
+    "feed_url": "https://daviddelvesdeep.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "David Chan"
+    },
+    "items": [
+    ]
+}
